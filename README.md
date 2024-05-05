@@ -16,7 +16,7 @@ Para o projeto em questão, comecei consultando o ChatGPT para obter ideias de r
 ## 🚀 Resultados
 O vídeo resultante é uma jornada fascinante pela evolução das Inteligências Artificiais Generativas ao longo do tempo. Desde os seus primórdios até os avanços mais recentes, o espectador é levado a uma exploração detalhada e envolvente dessa fascinante área da tecnologia. A narração, gerada pelo ElevenLabs e complementada pelo avatar virtual do D-ID, oferece uma experiência imersiva, enquanto a edição cuidadosa no InVideo combina elementos visuais e sonoros para criar um conteúdo informativo e visualmente atraente.
 
-[LINK PARA O VIDEO AQUI]()
+[LINK PARA O VIDEO AQUI](https://youtu.be/eiemV6kcadQ)
 
 ## 💭 Reflexão
 A criação do vídeo sobre IAs Generativas destaca a fascinação pelo progresso tecnológico, mas também enfatiza a importância da ética e responsabilidade. É crucial garantir que a tecnologia seja usada para o bem da humanidade, promovendo inclusão e igualdade, enquanto se mitigam os riscos potenciais.
