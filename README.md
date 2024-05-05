@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Evolução das IAS Generativas ao Longo do Tempo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este video explora a historia do desenvolvimento das IAS Generativas desde os primordios até os avanços mais recentes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para sugestão de temas, roterização e revisão;
+- IA Generativa **[ElevenLabs](https://elevenlabs.io)** para sintetização de voz;
+- IA Generativa **[D-ID](https://studio.d-id.com)** para criar avatar virtual;
+- Ferramenta **[InVideo](https://invideo.io))** edição de video;
+- Ferramenta **Libre Office** para edição de roteiro.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para o projeto em questão, comecei consultando o ChatGPT para obter ideias de roteiros de vídeos sobre IAS generativas. Após revisar as sugestões, solicitei a criação de um roteiro mais adaptado às necessidades específicas do projeto. Utilizei o ElevenLabs para sintetizar a voz, garantindo uma narração coesa e envolvente. Em seguida, carreguei a voz gerada no D-ID para a criação do avatar, que será utilizado como narrador no vídeo. Por fim, exportei o avatar e iniciei a edição do vídeo no Invideo, integrando a narração com elementos visuais para criar um conteúdo visualmente atraente e informativo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo resultante é uma jornada fascinante pela evolução das Inteligências Artificiais Generativas ao longo do tempo. Desde os seus primórdios até os avanços mais recentes, o espectador é levado a uma exploração detalhada e envolvente dessa fascinante área da tecnologia. A narração, gerada pelo ElevenLabs e complementada pelo avatar virtual do D-ID, oferece uma experiência imersiva, enquanto a edição cuidadosa no InVideo combina elementos visuais e sonoros para criar um conteúdo informativo e visualmente atraente.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O VIDEO AQUI]()
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+A criação do vídeo sobre IAs Generativas destaca a fascinação pelo progresso tecnológico, mas também enfatiza a importância da ética e responsabilidade. É crucial garantir que a tecnologia seja usada para o bem da humanidade, promovendo inclusão e igualdade, enquanto se mitigam os riscos potenciais.
